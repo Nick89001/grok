@@ -1,0 +1,8 @@
+aiogram==3.22.0
+aiohttp
+yookassa
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+backoff
