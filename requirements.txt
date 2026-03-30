@@ -3,6 +3,6 @@ aiohttp
 yookassa
 fastapi
 uvicorn[standard]
-pydantic
+pydantic==2.8.2
 python-dotenv
 backoff
