@@ -1,8 +1,8 @@
 aiogram==3.22.0
 aiohttp
 yookassa
-fastapi
+fastapi==0.104.1
 uvicorn[standard]
-pydantic==2.8.2
+pydantic==2.5.3
 python-dotenv
 backoff
