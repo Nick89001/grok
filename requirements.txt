@@ -1,8 +1,7 @@
-aiogram==3.22.0
+aiogram==3.13.0
 aiohttp
 yookassa
 fastapi==0.104.1
 uvicorn[standard]
-pydantic==2.5.3
 python-dotenv
 backoff
