@@ -1,6 +1,6 @@
 aiogram==3.13.0
-aiohttp
-yookassa
+aiohttp==3.9.5
+yookassa==3.8.0
 fastapi==0.104.1
 uvicorn[standard]
 python-dotenv
