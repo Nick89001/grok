@@ -1,4 +1,4 @@
-txtaiogram==3.22.0
+aiogram==3.22.0
 aiohttp
 yookassa
 fastapi
